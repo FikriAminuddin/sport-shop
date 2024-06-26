@@ -52,23 +52,23 @@ export const statistics = [
 export const products = [
   {
     imgURL: shoe4,
-    name: "Chuck Taylor All Star",
-    price: "100.20 €",
+    name: "Lotto Futsal Shoe Black Orange F1427-08",
+    price: "RM 99.00",
   },
   {
     imgURL: shoe5,
-    name: "Run Star Hike Sequins",
-    price: "190.00 €",
+    name: "Run Athletic Shoes",
+    price: "RM 79.00",
   },
   {
     imgURL: shoe6,
-    name: "Chuck Taylor All Star",
-    price: "120.20 €",
+    name: "Adidas Shoe Football boot Cleat",
+    price: "RM 199.00",
   },
   {
     imgURL: shoe7,
-    name: "Chuck 70 Y2K Heart",
-    price: "130.00 €",
+    name: "Adidas Football Copa Pure II",
+    price: "RM 139.00",
   },
 ];
 
@@ -112,10 +112,10 @@ export const footerLinks = [
   {
     title: "Products",
     links: [
-      { name: "Chuck Taylor All Star", link: "/" },
-      { name: "Run Star Hike Platform", link: "/" },
-      { name: "Chuck 70 Tri-Color", link: "/" },
-      { name: "Star Player 76", link: "/" },
+      { name: "Lotto Futsal Shoe Black Orange F1427-08", link: "/" },
+      { name: "Run Athletic Shoes", link: "/" },
+      { name: "Adidas Shoe Football boot Cleat", link: "/" },
+      { name: "Adidas Football Copa Pure II", link: "/" },
       { name: "Chuck Taylor All Star Lift Platform", link: "/" },
       { name: "Run Star Legacy Chelsea CX", link: "/" },
     ],
@@ -133,8 +133,8 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@converse.com", link: "mailto:customer@converse.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "customer@sports.com", link: "mailto:customer@sports.com" },
+      { name: "+60123456789", link: "tel:+60123456789" },
     ],
   },
 ];
